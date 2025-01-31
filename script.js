@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       artist: "Electronic Kili",
       title: "Eyy Banane",
-      releaseDate: "2023-05-15",
+      releaseDate: "15-October-2024",
       album: "Vaazha",
       image: "vazha.jpg",
       youtube: "https://www.youtube.com/watch?v=e1BHIY9p2WU",
